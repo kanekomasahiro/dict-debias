@@ -1,0 +1,20 @@
+{
+"pre_valid_size": 5000,
+"valid_size": 1000,
+"optimizer": "adam",
+"lr": 0.0002,
+"lr_decay": 1,
+"dropout_rate": 0.05,
+"max_grad_norm": null,
+"dictionary_weight": 0.00001,
+"corpus_weight": 0.99998,
+"adversarial_weight": 0.00001,
+"pre_batch_size": 512,
+"batch_size": 4,
+"pre-train_epoch": 3,
+"pre-train_early_stop": 3,
+"adversarial_epoch": 1,
+"adversarial_early_stop": 1,
+"emb_size": 300,
+"hidden_size": 300
+}
