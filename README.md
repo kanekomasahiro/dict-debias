@@ -15,7 +15,7 @@ Code and debiased word embeddings for the paper: "Dictionary-based Debiasing of 
 ```
 
 
-### Our experiment settings
+### Requirements
 - python==3.7.2
 - torch==1.6.0
 - gensim==3.7.3
